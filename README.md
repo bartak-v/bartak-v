@@ -10,7 +10,6 @@ You can reach me here :point_down:<div align="center">&nbsp;<a href="www.linkedi
     <img style="height:30%" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a> </div>
 #### Here's some (maybe) interesting stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bartak-v&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bartak-v&theme=dracula) 
 <!--
 **bartak-v/bartak-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
