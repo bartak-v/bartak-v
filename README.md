@@ -6,7 +6,7 @@ I am currently a student in a master's degree CS program on the [FIT BUT](https:
 
 Although I am mostly interested in cybersecurity, cryptography and backend development, I don't mind getting my hands on other fields aswell: ML/AI, a bit of frontend, scripting to name a few. Broadly speaking, the whole of Computer Science interests me (as it should).
 
-You can reach me here :point_down:<div align="center">&nbsp;<a href="www.linkedin.com/in/bartak-v">
+You can reach me here :point_down:<div align="center">&nbsp;<a href="https://www.linkedin.com/in/bartak-v">
     <img style="height:30%" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a> </div>
 #### Here's some (maybe) interesting stats:
